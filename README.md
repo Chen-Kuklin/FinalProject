@@ -27,4 +27,3 @@ One of the key features of the software is its high level of protection, which m
 
 
 
-![Project logo](/images/use1.jpg "My Project")
