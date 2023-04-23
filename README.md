@@ -5,3 +5,6 @@ As part of this project, we conducted research on datums and different coordinat
 
 One of the key features of the software is its high level of protection, which makes it almost unhackable. This makes it particularly suitable for entities like the IDF, for whom the security of the software is critical.
 
+
+![Project logo](/images/logo.png "My Project")
+
