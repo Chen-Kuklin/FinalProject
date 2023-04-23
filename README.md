@@ -1,4 +1,4 @@
-# FinalProject
+# Skimmer detection and tracking system
 The project is focused on providing an offline visual tracking system for drones. The system is built on network technology and allows the user to follow the movement of an enemy drone in real-time, with an emphasis on user interaction and the effectiveness, reliability, and speed of the software. 
 The project includes the use of Docker to build a tile server , allowing the program to generate and serve map tiles for real-time visualization of drone movement in offline mode.
 
